@@ -1,1 +1,4 @@
-_jinja_extensions: []
+project_name:
+  type: str
+  help: What is your project name
+  default: "{{project_name}}"

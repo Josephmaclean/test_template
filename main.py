@@ -1,2 +1,3 @@
 def main():
-    print("Welcome to {{ project_name }} v{{ version }}")
+    print("Hello from {{ project_name }} version {{ version }}")
+
